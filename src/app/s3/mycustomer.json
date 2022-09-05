@@ -1,0 +1,24 @@
+{
+    "code": 200,
+    "status": "success",
+    "message": "Success",
+    "data": [
+        {
+            "vendorCode": "29338",
+            "vendorName": "บริษัท ล้อมเพ็ชร 91 จำกัด",
+            "nominatingBu": "Lotus's",
+            "addressLine1": "หมู่บ้าน ศุภาลัย เบลล่า รังสิต คลอง 2 หมู่ที่ 4",
+            "addressLine2": "คลองสอง",
+            "addressLine3": "ปทุมธานี",
+            "zip": "22110",
+            "city": "Bangkok",
+            "country": "Thailand",
+            "phone": "+0153910452",
+            "supplierEmail": "gwendolyncook@microluxe.com",
+            "taxId": 2278228849420,
+            "status": "Active",
+            "isBusinessProfileCreated": false,
+            "isSupplierLinked": false
+        }
+    ]
+}

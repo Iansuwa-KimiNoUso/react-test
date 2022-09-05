@@ -1,0 +1,16 @@
+[
+  {
+    "index": 0,
+    "articleId": 1,
+    "imageHeaderUrl": "https://www.rmact.com/hubfs/AdobeStock_253663256%20compressed.jpg",
+    "topic": "About ABC",
+    "contents": "Etiam porta lobortis justo, ut sagittis tellus consequat id. Maecenas vel scelerisque ipsum. Vestibulum ac ultricies ante. Mauris sed consectetur dui. Nam varius vulputate purus eu sollicitudin. Aenean ipsum sem, consectetur vitae sapien eget, mollis sodales ipsum. Praesent vitae diam at lectus venenatis dapibus. Nunc eros ipsum, convallis eu porta non, volutpat non massa. In venenatis dolor augue, quis lacinia ex auctor ac. Duis tristique diam vel metus vestibulum iaculis. Mauris non augue ante.\n\nCurabitur ac mi enim. Mauris in massa lectus. Praesent auctor nunc quis vehicula maximus. Praesent semper, lectus rhoncus sagittis interdum, enim justo semper urna, a venenatis leo est suscipit sapien. Vestibulum purus sapien, rutrum nec ante in, auctor aliquet dui. Donec tempor enim sit amet quam placerat efficitur. Nulla fringilla gravida augue eu tincidunt. Aenean bibendum lorem sit amet est volutpat, id luctus ante fringilla. Nunc sollicitudin et purus id commodo. Suspendisse in ornare purus, vitae sodales erat. Etiam porttitor convallis metus quis imperdiet. Fusce mollis mattis nisl ac molestie. Fusce et faucibus diam, in dignissim libero.\n"
+  },
+  {
+    "index": 1,
+    "articleId": 2,
+    "imageHeaderUrl": "https://images.ctfassets.net/3s5io6mnxfqz/2lkzbagAflbET988hU2Hk1/20083a99f6f57f5ac64086bf248af9b3/AdobeStock_211393989.jpeg",
+    "topic": "Introduction Guide",
+    "contents": "Etiam porta lobortis justo, ut sagittis tellus consequat id. Maecenas vel scelerisque ipsum. Vestibulum ac ultricies ante. Mauris sed consectetur dui. Nam varius vulputate purus eu sollicitudin. Aenean ipsum sem, consectetur vitae sapien eget, mollis sodales ipsum. Praesent vitae diam at lectus venenatis dapibus. Nunc eros ipsum, convallis eu porta non, volutpat non massa. In venenatis dolor augue, quis lacinia ex auctor ac. Duis tristique diam vel metus vestibulum iaculis. Mauris non augue ante.\n\nCurabitur ac mi enim. Mauris in massa lectus. Praesent auctor nunc quis vehicula maximus. Praesent semper, lectus rhoncus sagittis interdum, enim justo semper urna, a venenatis leo est suscipit sapien. Vestibulum purus sapien, rutrum nec ante in, auctor aliquet dui. Donec tempor enim sit amet quam placerat efficitur. Nulla fringilla gravida augue eu tincidunt. Aenean bibendum lorem sit amet est volutpat, id luctus ante fringilla. Nunc sollicitudin et purus id commodo. Suspendisse in ornare purus, vitae sodales erat. Etiam porttitor convallis metus quis imperdiet. Fusce mollis mattis nisl ac molestie. Fusce et faucibus diam, in dignissim libero.\n"
+  }
+]

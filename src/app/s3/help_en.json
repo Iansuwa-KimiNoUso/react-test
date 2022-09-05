@@ -1,0 +1,77 @@
+{
+  "faq": [
+    {
+      "index": 0,
+      "faqId": 1,
+      "question": "How do I cancel my pending Request for Finance for an Invoice?",
+      "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    },
+    {
+      "index": 1,
+      "faqId": 2,
+      "question": "Payment FAQ",
+      "answer": "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness."
+    },
+    {
+      "index": 2,
+      "faqId": 3,
+      "question": "Payment period is the period it takes to...",
+      "answer": "In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided. But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted.\n\nIn a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided. But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted."
+    },
+    {
+      "index": 3,
+      "faqId": 4,
+      "question": "How do I cancel...",
+      "answer": "On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain. These cases are perfectly simple and easy to distinguish."
+    },
+    {
+      "index": 4,
+      "faqId": 5,
+      "question": "How do I cancel my pending Request for Finance for an Invoice?",
+      "answer": "Donec ultrices tincidunt arcu non sodales neque sodales. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus. Vestibulum mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare. Tortor pretium viverra suspendisse potenti nullam ac. Diam ut venenatis tellus in metus vulputate eu scelerisque felis.\n\nDonec ultrices tincidunt arcu non sodales neque sodales. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus. Vestibulum mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare. Tortor pretium viverra suspendisse potenti nullam ac. Diam ut venenatis tellus in metus vulputate eu scelerisque felis."
+    },
+    {
+      "index": 5,
+      "faqId": 6,
+      "question": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin rutrum nulla tortor, in facilisis nulla venenatis ut. Suspendisse semper eros cursus purus sodales tempus in et mi. Fusce...",
+      "answer": "“Intellectual Property Rights” means all present and future rights conferred by statute, common law or equity in or in relation to any copyright and related rights, trademarks, designs, patents, inventions, goodwill and the right to sue for passing off, rights to inventions, rights to use, and all other intellectual property rights, in each case whether registered or unregistered and including all applications and rights to apply for and be granted, rights to claim priority from, such rights and all similar or equivalent rights or forms.\n\n“Intellectual Property Rights” means all present and future rights conferred by statute, common law or equity in or in relation to any copyright and related rights, trademarks, designs, patents, inventions, goodwill and the right to sue for passing off, rights to inventions, rights to use, and all other intellectual property rights, in each case whether registered or unregistered and including all applications and rights to apply for and be granted, rights to claim priority from, such rights and all similar or equivalent rights or forms."
+    },
+    {
+      "index": 6,
+      "faqId": 7,
+      "question": "Invoice FAQ",
+      "answer": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio."
+    },
+    {
+      "index": 7,
+      "faqId": 8,
+      "question": "How to send...",
+      "answer": "Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae."
+    }
+  ],
+  "contacts": [
+    {
+      "index": 0,
+      "contactId": 1,
+      "type": "contact",
+      "name": "General Enquiries",
+      "email": "hello@abcsupplychain.com",
+      "contactNumber": "+66778903672"
+    },
+    {
+      "index": 1,
+      "contactId": 2,
+      "type": "contact",
+      "name": "Customer Support",
+      "email": "help@abcsupplychain.com",
+      "contactNumber": "+66778903672"
+    },
+    {
+      "index": 2,
+      "contactId": 3,
+      "type": "address",
+      "name": "Address",
+      "address": "Jalan Raya KM 8, Bangkok, Thailand 9029"
+    }
+  ]
+}
